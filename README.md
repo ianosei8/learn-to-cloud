@@ -5,13 +5,10 @@
 
 Learn to Cloud (L2C) is a courseware built on the belief that anyone can learn foundational cloud engineering skills with the right guide and discipline.
 
-This guide is focused on helping you learn the skillset of a junior cloud engineer, not ANY other role.
 
 https://learntocloud.guide
 
-## Contributing
 
-Please open an issue first so we can discuss before opening a PR. Thank you. 
 
 ## License
 
